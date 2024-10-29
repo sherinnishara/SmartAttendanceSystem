@@ -1,4 +1,4 @@
 # SmartAttendanceSystem
-<video width="300" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/e5ddeb84-f1b9-4428-a862-572fd345eb20
+

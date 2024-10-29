@@ -1,4 +1,5 @@
 # SmartAttendanceSystem
 
-https://github.com/user-attachments/assets/e5ddeb84-f1b9-4428-a862-572fd345eb20
+
+https://github.com/user-attachments/assets/03cee831-dd81-4c6f-a954-69a9118d326a
 
